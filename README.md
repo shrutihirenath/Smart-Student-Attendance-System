@@ -1,2 +1,15 @@
-# Smart-Student-Attendance-System
-A web-based Smart Student Attendance System developed using Python Flask and MySQL for attendance tracking, monthly reporting, and automated email notifications.
+# 
+🏦 ATM Console Project (Python)
+
+This project simulates ATM operations using Python.
+
+Features:
+- Login system
+- Deposit
+- Withdraw
+- Change PIN
+- Mini statement
+- Multiple accounts
+
+How to run:
+python atm.py
