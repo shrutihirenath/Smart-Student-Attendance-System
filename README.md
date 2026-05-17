@@ -4,7 +4,6 @@
 This project simulates ATM operations using Python.
 
 Features:
-- Login system
 - Deposit
 - Withdraw
 - Change PIN
